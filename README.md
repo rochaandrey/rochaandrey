@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **web developer with Java and Golang**
 
+- 🇬🇧 and 🇮🇹 enthusiast
+
 - 📫 How to reach me: **andreybernardo.dev@gmail.com**
 
 - 🙏 New projects coming soon
